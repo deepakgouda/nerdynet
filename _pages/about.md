@@ -2,23 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Incoming@College of Computing, Georgia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: deepakgouda.jpg
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a quantitative strategist working at the algorithmic trading firm [Kivi Capital](http://kivicapital.in).
+My research interests lie at the intersection of statistical modeling techniques and data networks such as
+*stochastic networks* and analysis of information in such data rich environments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I primarily work on statistical modelling of financial time series data in *Forex* and *Commodity* segments.
+I have also developed low latency trading systems and worked on the entire life cycle of algorithmic trading,
+from data capture over high speed networks to formulation and execution of trade signals.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I did my Bachelor thesis under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/) where we
+developed a lightweight, modular framework to generate network-level synthetic data of any Blockchain topology.
+We further proposed a novel validation method for any Blockchain framework.
+
+I graduated with a Bachelor in Technology degree, majoring in *Mathematics and Computing* from
+[Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/), India in 2020.
+
+Feel free to check my <a class="in-text" href="assets/Deepak_CV.pdf" target="_blank"> CV</a> or drop me a
+*Hi!* at [deepakgouda1729@gmail.com](mailto:deepakgouda1729@gmail.com).
+
+On the weekends you can find me exploring history, technology, fiction or photography. Occasionally you can
+find me exploring remote mountains or spending nights capturing the Milky Way. Feel free to browse my creative work
+at the [Gallery](https://blog.deepakgouda.com/gallery).
