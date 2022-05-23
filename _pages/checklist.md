@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <div class="post-content">
-    <p> Progress as of May 23, 2022: 11/23.</p>
+    <p> Progress as of May 23, 2022: 11/26.</p>
     <ol>
         <li>✗ Travel to another continent </li>
         <li>✗ Observe people one the streets of London alone on a rainy night </li>
