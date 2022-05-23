@@ -188,11 +188,17 @@ horizontal: false
         {% include figure.html path="assets/shots/peak.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Roads to the Peak | 10 March, 2020 : Sikkim, India
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/shots/primanti.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Citylights | 30 May, 2021 : Gurgaon, In
 </div>
 
 <div class="row">
@@ -200,20 +206,8 @@ horizontal: false
         {% include figure.html path="assets/shots/rock.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/saltwater_room.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/shekwas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    Dramatic shades of Kashmir | 22 July, 2021 : Kashmir, In
+Rise | 25 January, 2021 : Canacona Coast, Goa
 </div>
 
 <div class="row">
@@ -222,10 +216,26 @@ horizontal: false
     </div>
 </div>
 
+<div class="caption">
+     Through the rugged terrains | 1 April, 2021 : Chicham, In
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/shots/shekwas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Dramatic shades of Aru Valley | 22 July, 2021 : Kashmir, In
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/shots/steed.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The Braveheart | 11 March, 2020 : Aahl, Nepal
 </div>
 
 <div class="row">
@@ -241,6 +251,9 @@ horizontal: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/shots/tarsar.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Shimmer of Tarsar | 22 July, 2021 : Tarsar Lake, Kashmir Valley
 </div>
 
 <div class="row">
