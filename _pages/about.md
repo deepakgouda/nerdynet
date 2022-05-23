@@ -14,24 +14,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a quantitative strategist working at the algorithmic trading firm [Kivi Capital](http://kivicapital.in).
-My research interests lie at the intersection of statistical modeling techniques and data networks such as
-*stochastic networks* and analysis of information in such data rich environments.
+I am an upcoming Master's student at Georgia Tech. I am interested in applying machine learning techinques
+to model and predict metrics over large-scale graphs, especially computer networks.
 
-I primarily work on statistical modelling of financial time series data in *Forex* and *Commodity* segments.
-I have also developed low latency trading systems and worked on the entire life cycle of algorithmic trading,
-from data capture over high speed networks to formulation and execution of trade signals.
+I worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
+data. I also developed several low trading latency systems on C++.
 
-I did my Bachelor thesis under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/) where we
-developed a lightweight, modular framework to generate network-level synthetic data of any Blockchain topology.
-We further proposed a novel validation method for any Blockchain framework.
+As a part of my Bachelor's Thesis, I developed a Blockchain Simulator and proposed a model to validate any
+simulation framework. I was fortunate to work under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/).
+More details [here](https://deepakgouda.github.io/publications/).
 
 I graduated with a Bachelor in Technology degree, majoring in *Mathematics and Computing* from
 [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/), India in 2020.
 
-Feel free to check my <a class="in-text" href="assets/Deepak_CV.pdf" target="_blank"> CV</a> or drop me a
+Feel free to check my <a class="in-text" href="assets/pdf/Deepak_CV.pdf" target="_blank"> CV</a> or drop me a
 *Hi!* at [deepakgouda1729@gmail.com](mailto:deepakgouda1729@gmail.com).
 
 On the weekends you can find me exploring history, technology, fiction or photography. Occasionally you can
 find me exploring remote mountains or spending nights capturing the Milky Way. Feel free to browse my creative work
-at the [Gallery](https://blog.deepakgouda.com/gallery).
+at the [Gallery](/shots).
