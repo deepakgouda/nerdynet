@@ -23,7 +23,7 @@ nav_order: 1
         <li>✓ Explore the coniferous forests of Shivalik range </li>
         <li>✓ Sleep under a tree and open sky </li>
         <li>✗ Climb a mountain </li>
-        <li>✗ Ride a cruiser motorcycle on a Pacific coastway </li>
+        <li>✗ Solo ride a cruiser motorcycle on a Pacific coastway </li>
         <li>✗ Skydive </li>
         <li>✗ Longboard down a hill </li>
         <li>✗ (Try) Parkour </li>
