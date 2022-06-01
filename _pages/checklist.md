@@ -44,6 +44,8 @@ nav_order: 1
         <li>✗ Learn to play <+TrYEbT,s+B)i[+C]U=7:[N>BOtaq@;Z on Guitar</li>
         <li>✗ Spend a night watching Football with friends</li>
         <li>✗ Cook a complete meal</li>
+        <li>✗ Create a Digital Art</li>
+        <li>~ Be remembered for good</li>
     </ol>
 
     <p>Page template taken from <a href = "https://huyenchip.com/list-100/">Chip Huyen's</a> site.</p>

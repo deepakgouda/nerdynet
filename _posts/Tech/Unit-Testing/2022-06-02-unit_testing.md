@@ -3,7 +3,7 @@ layout: post
 title: Mocking in C++
 date: 2022-06-01 02:21:00
 description: My notes on setting up gtest and gmock in C++.
-tags: c++ tech setup
+tags: cpp tech setup
 categories: Setup
 ---
 
