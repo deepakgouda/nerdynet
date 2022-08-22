@@ -8,9 +8,9 @@ nav_order: 1
 ---
 
 <div class="post-content">
-    <p> Progress as of May 23, 2022: 13/35.</p>
+    <p> Progress as of Aug 22, 2022: 14/36.</p>
     <ol>
-        <li>✗ Travel to another continent </li>
+        <li>✓ Travel to another continent </li>
         <li>✗ Observe people on the streets of London alone on a rainy night </li>
         <li>✗ Chase Aurora Boreolis </li>
         <li>✓ Trek the Himalayas </li>
