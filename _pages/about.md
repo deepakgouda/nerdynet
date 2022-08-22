@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming @ College of Computing, Georgia Tech
+subtitle: MS CS @ Georgia Tech
 
 profile:
   align: right
@@ -14,8 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an upcoming Master's student at Georgia Tech. I am interested in applying deep learning techinques
-such as [GNNs](https://en.wikipedia.org/wiki/Graph_neural_network) to model large-scale computer networks.
+I am an Master's student at Georgia Tech specializing in Machine Learning. I am interested in applying deep learning techniques to model large-scale computer networks.
 
 I have worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
 data and developed low trading latency systems.
