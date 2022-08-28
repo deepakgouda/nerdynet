@@ -8,19 +8,19 @@ nav_order: 1
 ---
 
 <div class="post-content">
-    <p> Progress as of Aug 22, 2022: 14/36.</p>
+    <p> Progress as of Aug 27, 2022: 16/36.</p>
     <ol>
         <li>✓ Travel to another continent </li>
         <li>✗ Observe people on the streets of London alone on a rainy night </li>
         <li>✗ Chase Aurora Boreolis </li>
-        <li>✓ Trek the Himalayas </li>
+        <li>✓ <a href="https://www.instagram.com/p/CNX1b-hFeij/">Trek the Himalayas</a> </li>
         <li>✗ Trek all by yourself </li>
-        <li>✓ Explore the alpine lakes of Kashmir </li>
-        <li>✓ Shoot a cityscape timelapse </li>
+        <li>✓ <a href="https://www.instagram.com/p/CR6yma_lXEk/">Explore the alpine lakes of Kashmir</a> </li>
+        <li>✓ <a href="https://www.instagram.com/p/CPiijRclVMf/">Shoot a cityscape timelapse</a> </li>
         <li>✗ Capture the Milky Way </li>
-        <li>✗ Capture a timelapse of the night sky (an unsatisfactory attempt)</li>
-        <li>✓ Capture a silhouette against the red sky at a beach</li>
-        <li>✓ Explore the coniferous forests of Shivalik range </li>
+        <li>✓ <a href="https://www.instagram.com/p/CfytoS6lTQs">Capture a timelapse of the night sky</a></li>
+        <li>✓ <a href="https://www.instagram.com/p/CKsi_Q0lgJP/">Capture a silhouette against the red sky at a beach</a></li>
+        <li>✓ <a href="https://www.instagram.com/p/CGDglL8lKIX/">Explore the coniferous forests of Shivalik range</a> </li>
         <li>✓ Sleep under a tree and open sky </li>
         <li>✗ Climb a mountain </li>
         <li>✗ Solo ride a cruiser motorcycle on a Pacific coastway </li>
@@ -34,7 +34,7 @@ nav_order: 1
         <li>✗ Publish a story in National Geographic </li>
         <li>✗ Start my own venture </li>
         <li>✓ Fine-dine with my parents </li>
-        <li>✓ Fine-dine with friends in all formals </li>
+        <li>✓ <a href="https://www.instagram.com/p/CXwbwziB6bu/">Fine-dine with friends in all formals</a> </li>
         <li>✓ Make a surprise visit home </li>
         <li>✗ Send a handwritten letter to someone</li>
         <li>✗ <s>Attend Linkin Park's live concert</s></li>
@@ -43,7 +43,7 @@ nav_order: 1
         <li>✗ Learn a musical instrument (Guitar or Drums)</li>
         <li>✗ Learn to play <+TrYEbT,s+B)i[+C]U=7:[N>BOtaq@;Z on Guitar</li>
         <li>✗ Spend a night watching Football with friends</li>
-        <li>✗ Cook a complete meal</li>
+        <li>✓ Cook a complete meal</li>
         <li>✗ Create a Digital Art</li>
         <li>~ Be remembered for good</li>
     </ol>
