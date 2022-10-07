@@ -45,6 +45,7 @@ nav_order: 1
         <li>✗ Spend a night watching Football with friends</li>
         <li>✓ Cook a complete meal</li>
         <li>✗ Create a Digital Art</li>
+        <li>✗ Explore Yosemite, Half-Dome and General Sherman</li>
         <li>~ Be remembered for good</li>
     </ol>
 
