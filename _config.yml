@@ -115,8 +115,12 @@ collections:
   shots:
     output: true
     permalink: /shots/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 news_limit: 5
+news_scrollable: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
