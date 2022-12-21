@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Master's student at Georgia Tech specializing in Machine Learning. I am interested in applying machine learning techniques to study internet data and make it a more secure, robust place. Currently, I work on the impact of RPKI on BGP behavior under the guidance of [Dr. Cecilia Testart](https://people.csail.mit.edu/ctestart/).
 
 I have worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
-data and developed low trading latency systems.
+data and developed low latency trading systems.
 
 As a part of my Bachelor's Thesis, I developed a Blockchain Simulator and proposed a model to validate any
 simulation framework. I was fortunate to work under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/).
