@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+<a class="in-text" href="../assets/pdf/Censys.pdf" target="_blank">Censys : A Search Engine Backed by Internet-Wide Scanning </a> <br>
+Why do we need internet-wide scanners? What is the architecture of Censys? Are there any ethical considerations of exposing vulnerabilities?
+
+---
+
 <a class="in-text" href="../assets/pdf/Video_Deraining.pdf" target="_blank">Video Deraining and Desnowing</a> <br>
 An improved algorithm to remove rain streaks from video frames and comparative analysis with existing methods on synthetic datasets.
 
