@@ -12,6 +12,11 @@ Why do we need internet-wide scanners? What is the architecture of Censys? Are t
 
 ---
 
+<a class="in-text" href="../assets/pdf/MANRS.pdf" target="_blank">Mind Your MANRS: Measuring the MANRS Ecosystem </a> <br>
+What has been the impact of MANRS initiative on the global internet routing?
+
+---
+
 <a class="in-text" href="../assets/pdf/Video_Deraining.pdf" target="_blank">Video Deraining and Desnowing</a> <br>
 An improved algorithm to remove rain streaks from video frames and comparative analysis with existing methods on synthetic datasets.
 
