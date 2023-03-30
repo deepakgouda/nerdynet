@@ -7,14 +7,14 @@ subtitle: MS CS @ Georgia Tech
 profile:
   align: right
   image: deepakgouda.jpg
-  address: 
+  address: <p align="center">Do not go gentle into that good night</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master's student at Georgia Tech specializing in Machine Learning. I am interested in applying machine learning techniques to study internet data and make it a more secure, robust place. Currently, I work on the impact of RPKI on BGP behavior under the guidance of [Dr. Cecilia Testart](https://people.csail.mit.edu/ctestart/).
+I am a Master's student at Georgia Tech specializing in Machine Learning. I am interested in applying machine learning techniques to study internet data and make it a more secure, robust place. Currently, I work on the impact of RPKI on BGP behavior under the guidance of [Dr. Cecilia Testart](https://www.cc.gatech.edu/people/cecilia-testart).
 
 I have worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
 data and developed low latency trading systems.
