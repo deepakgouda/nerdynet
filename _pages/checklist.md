@@ -8,10 +8,10 @@ nav_order: 1
 ---
 
 <div class="post-content">
-    <p> Progress as of Aug 27, 2022: 16/36.</p>
+    <p> Progress as of Apr 7, 2023: 17/39.</p>
     <ol>
         <li>✓ Travel to another continent </li>
-        <li>✗ Observe people on the streets of London alone on a rainy night </li>
+        <li>✗ Observe people on the streets of London on a rainy night </li>
         <li>✗ Chase Aurora Boreolis </li>
         <li>✓ <a href="https://www.instagram.com/p/CNX1b-hFeij/">Trek the Himalayas</a> </li>
         <li>✗ Trek all by yourself </li>
@@ -42,10 +42,13 @@ nav_order: 1
         <li>✓ Meet an author you enjoy reading</li>
         <li>✗ Learn a musical instrument (Guitar or Drums)</li>
         <li>✗ Learn to play <+TrYEbT,s+B)i[+C]U=7:[N>BOtaq@;Z on Guitar</li>
-        <li>✗ Spend a night watching Football with friends</li>
+        <li>✓ <a href="https://www.instagram.com/p/CmUv48DLvxd/">Spend a night watching Football with friends </a></li>
         <li>✓ Cook a complete meal</li>
         <li>✗ Create a Digital Art</li>
         <li>✗ Explore Yosemite, Half-Dome and General Sherman</li>
+        <li>✗ Traverse the bustling streets of Tokyo</li>
+        <li>✗ Have a rustic, traditional italian meal in Tuscany, Dolomites or Manarola </li>
+        <li>✗ Get dazed by the white buildings of San Torini</li>
         <li>~ Be remembered for good</li>
     </ol>
 
