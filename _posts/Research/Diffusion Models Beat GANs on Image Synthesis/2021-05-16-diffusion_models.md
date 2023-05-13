@@ -3,7 +3,7 @@ layout: post
 title: Diffusion Models Beat GANs on Image Synthesis - A Summary
 date: 2021-05-16 21:01:00
 description: A summary of Diffusion Models Beat GANs on Image Synthesis.
-tags: research notes-and-summaries
+tags: research notes-and-summaries machine-learning
 categories: Research
 ---
 
