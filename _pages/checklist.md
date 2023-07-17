@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <div class="post-content">
-    <p> Progress as of Apr 7, 2023: 17/39.</p>
+    <p> Progress as of Apr 7, 2023: 19/40.</p>
     <ol>
         <li>✓ Travel to another continent </li>
         <li>✗ Observe people on the streets of London on a rainy night </li>
@@ -28,6 +28,7 @@ nav_order: 1
         <li>✗ Longboard down a hill </li>
         <li>✗ (Try) Parkour </li>
         <li>✓ Move to a new city alone </li>
+        <li>✓ Explore a country solo </li>
         <li>✓ Get my parents on their first flight </li>
         <li>✗ Become the first author of a paper at an A* conference </li>
         <li>✓ Publish at a conference </li>
@@ -46,10 +47,11 @@ nav_order: 1
         <li>✓ Cook a complete meal</li>
         <li>✗ Create a Digital Art</li>
         <li>✗ Explore Yosemite, Half-Dome and General Sherman</li>
-        <li>✗ Traverse the bustling streets of Tokyo</li>
+        <li>✓ Traverse the bustling streets of Tokyo</li>
         <li>✗ Have a rustic, traditional italian meal in Tuscany, Dolomites or Manarola </li>
         <li>✗ Get dazed by the white buildings of San Torini</li>
         <li>~ Be remembered for good</li>
+        <li>~ Attain inner peace</li>
     </ol>
 
     <p>Page template taken from <a href = "https://huyenchip.com/list-100/">Chip Huyen's</a> site.</p>
