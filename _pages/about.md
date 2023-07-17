@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research focuses on comprehensively understanding and improving the Internet With a strong emphasis on enhancing Internet safety, I aim to develop novel approaches to mitigate vulnerabilities and contribute to a more secure and accessible online environment.
+My research focuses on comprehensively understanding and improving the Internet with a strong emphasis on enhancing Internet safety, I aim to develop novel approaches to mitigate vulnerabilities and contribute to a more secure and accessible online environment.
 
 I am advised by [Dr. Cecilia Testart](https://www.cc.gatech.edu/people/cecilia-testart) and [Dr. Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/). I also collaborate with researchers from [Internet Initiative of Japan](https://www.iijlab.net).
 
