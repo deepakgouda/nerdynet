@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+<a class="in-text" href="../assets/pdf/Mirai Botnet.pdf" target="_blank">Understanding the Mirai Botnet </a> <br>
+Growth, evolution and architecture of the Mirai Botnet, and the impact of its attacks on the Internet.
+
+---
+
 <a class="in-text" href="../assets/pdf/Censys.pdf" target="_blank">Censys : A Search Engine Backed by Internet-Wide Scanning </a> <br>
 Why do we need internet-wide scanners? What is the architecture of Censys? Are there any ethical considerations of exposing vulnerabilities?
 
