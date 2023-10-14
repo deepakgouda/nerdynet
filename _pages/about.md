@@ -6,7 +6,7 @@ subtitle: MS CS @ Georgia Tech
 
 profile:
   align: right
-  image: deepakgouda.jpg
+  image: deepakgouda_2023.jpeg
   address: <p align="center">Do not go gentle into that good night</p>
 
 news: true  # includes a list of news items
