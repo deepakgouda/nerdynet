@@ -47,8 +47,8 @@ nav_order: 1
         <li>✓ Cook a complete meal</li>
         <li>✗ Create a Digital Art</li>
         <li>✗ Explore Yosemite, Half-Dome and General Sherman</li>
-        <li>✓ Experience fall like the [Windows XP wallpaper](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F3ma6nhepxbb81.jpg)</li>
-        <li>✓ <a href="https://www.instagram.com/p/CtEJMB1Sx6u/?img_index=4">Traverse the bustling streets of Tokyo</li>
+        <li>✓ Experience fall like the <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F3ma6nhepxbb81.jpg">Windows XP wallpaper</a></li>
+        <li>✓ <a href="https://www.instagram.com/p/CtEJMB1Sx6u/?img_index=4">Traverse the bustling streets of Tokyo</a></li>
         <li>✗ Have a rustic, traditional Italian meal in Tuscany, Dolomites or Manarola </li>
         <li>✗ Fly over the Great Barrier Reef </li>
         <li>✗ Get dazed by the white buildings of San Torini</li>
