@@ -11,7 +11,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/blue_glare.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/blue_glare Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -20,7 +20,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/axial-trails.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/axial-trails Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/desolation.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/desolation Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/sandakphu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/sandakphu Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,7 +47,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/diwali.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/diwali Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/dzukou.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/dzukou Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -65,7 +65,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/explorer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/explorer Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -74,7 +74,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/feet.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/feet Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -83,7 +83,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/glide.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/glide Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -92,7 +92,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/hampta.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/hampta Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -101,7 +101,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/hollow.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/hollow Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -110,7 +110,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/home.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/home Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -119,7 +119,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kalpa.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kalpa Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -128,7 +128,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kashmir.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kashmir Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -137,7 +137,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/key_gompa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/key_gompa Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -146,7 +146,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kolahoi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kolahoi Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -155,7 +155,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/langza.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/langza Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -164,7 +164,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/langza_wide.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/langza_wide Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -173,10 +173,10 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/lights.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/lights Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/nako.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/nako Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -185,7 +185,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/peak.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/peak Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -194,7 +194,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/primanti.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/primanti Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -203,7 +203,7 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/rock.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/rock Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -212,7 +212,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/spiti-river.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/spiti-river Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -222,7 +222,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/shekwas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/shekwas Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -231,7 +231,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/steed.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/steed Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -240,7 +240,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/sundarsar.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/sundarsar Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -249,7 +249,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -258,7 +258,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar_pass_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar_pass_2 Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -267,7 +267,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar_pass.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar_pass Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -276,7 +276,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tabo_coll.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tabo_coll Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
