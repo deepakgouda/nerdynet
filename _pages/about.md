@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 My research focuses on comprehensively understanding and improving the Internet. With a strong emphasis on enhancing Internet safety, I aim to develop novel approaches to mitigate vulnerabilities and contribute to a more secure and accessible online environment.
 
-I am advised by [Dr. Cecilia Testart](https://faculty.cc.gatech.edu/~ctestart8/). I am also advised by [Dr. Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/) and [Dr. Romain Fontugne](https://www.iijlab.net/en/members/romain.html).
+I am primarily advised by [Prof. Cecilia Testart](https://faculty.cc.gatech.edu/~ctestart8/). I am also advised by [Prof. Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/) and [Romain Fontugne](https://www.iijlab.net/en/members/romain.html).
 
 I have worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
 data and developed low latency trading systems.
