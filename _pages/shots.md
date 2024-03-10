@@ -12,7 +12,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/blue_glare Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/blue_glare Large.jpeg" title="blue_glare" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/axial-trails Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/axial-trails Large.jpeg" title="axial-trails" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -30,7 +30,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/desolation Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/desolation Large.jpeg" title="desolation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/sandakphu Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/sandakphu Large.jpeg" title="sandakphu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/diwali Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/diwali Large.jpeg" title="diwali" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -57,7 +57,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/dzukou Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/dzukou Large.jpeg" title="dzukou" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/explorer Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/explorer Large.jpeg" title="explorer" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -75,7 +75,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/feet Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/feet Large.jpeg" title="feet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/glide Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/glide Large.jpeg" title="glide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -93,7 +93,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/hampta Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/hampta Large.jpeg" title="hampta" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -102,7 +102,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/hollow Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/hollow Large.jpeg" title="hollow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -111,7 +111,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/home Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/home Large.jpeg" title="home" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -120,7 +120,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kalpa Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kalpa Large.jpeg" title="kalpa" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -129,7 +129,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kashmir Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kashmir Large.jpeg" title="kashmir" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -138,7 +138,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/key_gompa Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/key_gompa Large.jpeg" title="key_gompa" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -147,7 +147,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/kolahoi Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/kolahoi Large.jpeg" title="kolahoi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -156,7 +156,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/langza Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/langza Large.jpeg" title="langza" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -165,7 +165,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/langza_wide Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/langza_wide Large.jpeg" title="langza_wide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -174,10 +174,10 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/lights Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/lights Large.jpeg" title="lights" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/nako Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/nako Large.jpeg" title="nako" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -186,7 +186,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/peak Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/peak Large.jpeg" title="peak" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -195,7 +195,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/primanti Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/primanti Large.jpeg" title="primanti" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -204,7 +204,7 @@ PS : The photos do not render on mobile site for some reason. Unfortunately, deb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/rock Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/rock Large.jpeg" title="rock" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -213,7 +213,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/spiti-river Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/spiti-river Large.jpeg" title="spiti-river" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -223,7 +223,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/shekwas Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/shekwas Large.jpeg" title="shekwas" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -232,7 +232,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/steed Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/steed Large.jpeg" title="steed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -241,7 +241,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/sundarsar Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/sundarsar Large.jpeg" title="sundarsar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -250,7 +250,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar Large.jpeg" title="tarsar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -259,7 +259,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar_pass_2 Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar_pass_2 Large.jpeg" title="tarsar_pass_2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -268,7 +268,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tarsar_pass Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tarsar_pass Large.jpeg" title="tarsar_pass" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -277,7 +277,7 @@ Rise | 25 January, 2021 : Canacona Coast, Goa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/shots/tabo_coll Large.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/shots/tabo_coll Large.jpeg" title="tabo_coll" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
