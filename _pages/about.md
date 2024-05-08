@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS CS @ Georgia Tech
+subtitle: PhD @ Georgia Tech
 
 profile:
   align: right
