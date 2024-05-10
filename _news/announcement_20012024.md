@@ -4,4 +4,4 @@ date: 2024-01-20
 inline: true
 ---
 
-Our demo submission on [LLMs deployed in mobile devices](https://dl.acm.org/doi/abs/10.1145/3638550.3643052) was accepted to [HotMobile '24](https://hotmobile.org/2024/)!
+Our demo submission on [LLMs](https://dl.acm.org/doi/abs/10.1145/3638550.3643052) was accepted to [ACM HotMobile '24](https://hotmobile.org/2024/) at San Diego!
