@@ -4,7 +4,7 @@ permalink: /checklist/
 title: checklist
 description: Things I want to do before it all ends. Please let me know if you have any recommendation.
 nav: false
-nav_order: 1
+nav_order: 2
 ---
 
 <div class="post-content">

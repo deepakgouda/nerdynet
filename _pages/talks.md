@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+<a class="in-text" href="../assets/pdf/TDP_2024.pdf" target="_blank">Decoding Barriers : Identifying Disparities in Routing Security Adoption </a> <br>
+Hurdles faced by Internet operators while adopting security measures for the Internet's routing infrastructure.
+
+---
 <a class="in-text" href="../assets/pdf/Mirai Botnet.pdf" target="_blank">Understanding the Mirai Botnet </a> <br>
 Growth, evolution and architecture of the Mirai Botnet, and the impact of its attacks on the Internet.
 
