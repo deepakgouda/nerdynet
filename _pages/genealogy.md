@@ -114,7 +114,7 @@ nav_order: 1
             <div class="card text-center">
                 <div class="card-body">
                 <a href="https://en.wikipedia.org/wiki/Wallace_Clement_Sabine" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sabine_Wallace_A2.jpg/440px-Sabine_Wallace_A2.jpg" alt="Wallace Clement Sabine" class="advisor-image">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sabine.png" alt="Wallace Clement Sabine" class="advisor-image">
                         <h5 class="card-title">Wallace Clement Sabine</h5>
                     </a>
                     <p class="card-text">Acoustics | Harvard University</p>
