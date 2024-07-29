@@ -39,7 +39,9 @@ categories: Research
 * XGBoost configuration : 50 estimators along with L1 and L2 regularization terms of value 10, objective function : minimize the squared
 error.
 * Relative error on test data : minimum **3.42%** , maximum **7.65%**
-![Validation](./images/Validation.png)
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/blockeval/BlockEval.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 
 ## Observations
 
