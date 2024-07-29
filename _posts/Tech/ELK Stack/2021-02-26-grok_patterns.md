@@ -9,8 +9,6 @@ categories: Setup
 
 Although this article is a part of the [Self-managed ELK Stack](https://www.deepakgouda.com/Self-managed-ELK-Stack) articles, it can be read as an independent module as well due to the fact that Grok patterns are a common standard and not ELK specidic.
 
-# Grok Patterns
-
 ### Parsing timestamps
 
 ```
