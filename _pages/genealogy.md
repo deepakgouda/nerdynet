@@ -59,8 +59,6 @@ nav_order: 1
                 </div>
             </div>
 
-            <div class="arrow"></div>
-
             <div class="card text-center">
                 <div class="card-body">
                 <a href="https://groups.csail.mit.edu/ana/People/Clark.html" target="_blank">
@@ -100,67 +98,112 @@ nav_order: 1
                     <p class="card-text">Physics | Harvard University</p>
                 </div>
             </div>
-            
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/Percy_Williams_Bridgman" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bridgman.jpg" alt="Percy Williams Bridgman" class="advisor-image">
-                        <h5 class="card-title">Percy Williams Bridgman</h5>
-                    </a>
-                    <p class="card-text">Physics | Harvard University <br> Nobel Prize in Physics </p>
+            <!-- Row for branching -->
+            <div class="row">
+                <!-- Card 4 -->
+                <div class="col-md-6 text-center">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="https://en.wikipedia.org/wiki/Percy_Williams_Bridgman" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bridgman.jpg" alt="Percy Williams Bridgman" class="advisor-image">
+                                <h5 class="card-title">Percy Williams Bridgman</h5>
+                            </a>
+                            <p class="card-text">Physics | Harvard University <br> Nobel Prize in Physics</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="col-md-6 text-center">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/440px-Niels_Bohr.jpg" alt="Niels Bohr" class="advisor-image">
+                                <h5 class="card-title">Niels Bohr</h5>
+                            </a>
+                            <p class="card-text">Physics | University of Cambridge <br> Nobel Prize in Physics</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <a href="https://en.wikipedia.org/wiki/Wallace_Clement_Sabine" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sabine.png" alt="Wallace Clement Sabine" class="advisor-image">
+                                <h5 class="card-title">Wallace Clement Sabine</h5>
+                            </a>
+                            <p class="card-text">Acoustics | Harvard University</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <div class="card-body">
+                                <a href="https://en.wikipedia.org/wiki/John_Trowbridge_(physicist)" target="_blank">
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PSM_V26_D740_John_Trowbridge.jpg/440px-PSM_V26_D740_John_Trowbridge.jpg" alt="John Trowbridge" class="advisor-image">
+                                    <h5 class="card-title">John Trowbridge</h5>
+                                </a>
+                                <p class="card-text">Physics | Harvard University</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <div class="card-body">
+                                <a href="https://en.wikipedia.org/wiki/Joseph_Lovering" target="_blank">
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Lovering_by_William_Notman.jpg" alt="Joseph Lovering" class="advisor-image">
+                                    <h5 class="card-title">Joseph Lovering</h5>
+                                </a>
+                                <p class="card-text">Mathematics | Harvard University</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <a href="https://en.wikipedia.org/wiki/Benjamin_Peirce" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/BenjaminPeirce5.jpg" alt="Benjamin Peirce" class="advisor-image">
+                                <h5 class="card-title">Benjamin Peirce</h5>
+                            </a>
+                            <p class="card-text">Mathematics | Harvard University</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <a href="https://en.wikipedia.org/wiki/Nathaniel_Bowditch" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Nathaniel_Bowditch_%281773-1838%29%2C_American_mathematician_and_actuary.jpeg" alt="Nathaniel Bowditch" class="advisor-image">
+                                <h5 class="card-title">Nathaniel Bowditch</h5>
+                            </a>
+                            <p class="card-text">Mathematics</p>
+                        </div>
+                    </div>
                 </div>
             </div>
             
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/Wallace_Clement_Sabine" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sabine.png" alt="Wallace Clement Sabine" class="advisor-image">
-                        <h5 class="card-title">Wallace Clement Sabine</h5>
-                    </a>
-                    <p class="card-text">Acoustics | Harvard University</p>
-                </div>
-            </div>
-            
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/John_Trowbridge_(physicist)" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PSM_V26_D740_John_Trowbridge.jpg/440px-PSM_V26_D740_John_Trowbridge.jpg" alt="John Trowbridge" class="advisor-image">
-                        <h5 class="card-title">John Trowbridge</h5>
-                    </a>
-                    <p class="card-text">Physics | Harvard University</p>
-                </div>
-            </div>
-            
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/Joseph_Lovering" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Lovering_by_William_Notman.jpg" alt="Joseph Lovering" class="advisor-image">
-                        <h5 class="card-title">Joseph Lovering</h5>
-                    </a>
-                    <p class="card-text">Mathematics | Harvard University</p>
-                </div>
-            </div>
-            
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/Benjamin_Peirce" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/BenjaminPeirce5.jpg" alt="Benjamin Peirce" class="advisor-image">
-                        <h5 class="card-title">Benjamin Peirce</h5>
-                    </a>
-                    <p class="card-text">Mathematics | Harvard University</p>
-                </div>
-            </div>
-            
-            <div class="card text-center">
-                <div class="card-body">
-                <a href="https://en.wikipedia.org/wiki/Nathaniel_Bowditch" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Nathaniel_Bowditch_%281773-1838%29%2C_American_mathematician_and_actuary.jpeg" alt="Nathaniel Bowditch" class="advisor-image">
-                        <h5 class="card-title">Nathaniel Bowditch</h5>
-                    </a>
-                    <p class="card-text">Mathematics</p>
-                </div>
-            </div>
-            
+
+<style>
+
 
     </div>
 </div>
