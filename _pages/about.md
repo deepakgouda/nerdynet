@@ -18,14 +18,8 @@ My research focuses on comprehensively understanding and improving the Internet.
 
 I am primarily advised by [Prof. Cecilia Testart](https://faculty.cc.gatech.edu/~ctestart8/). I am also advised by [Prof. Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/) and [Romain Fontugne](https://www.iijlab.net/en/members/romain.html).
 
-I have worked as a quantitative researcher in algo-trading domain where I worked on statistical modelling of financial
-data and developed low latency trading systems.
-
-As a part of my Bachelor's Thesis, I developed a Blockchain Simulator and proposed a model to validate any
-simulation framework. I was fortunate to work under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/).
-
-I graduated with a major in *Mathematics and Computing* from
+Before starting my PhD, I used to create algo-trading strategies, develop low latency trading systems and Blockchain simulators. I graduated with a major in *Mathematics and Computing* from
 [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/), India in 2020.
 
-I like history and photography. Lately I have been able to travel a bit and I often photograph landscapes and timelapses. Feel free to browse my creative work
+Lately I have been able to travel a bit and I photograph landscapes. Browse my creative work
 at the [Gallery](/shots).

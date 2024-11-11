@@ -8,7 +8,7 @@ nav_order: 1
 display_categories: [travel]
 horizontal: false
 ---
-PS : The photos do not render on mobile site for some reason. Unfortunately, debugging Jekyll, JS and React is beyond my paygrade. Please view the site on a desktop till a good samaritan (or GPT?) helps me out :)
+PS : The photos do not render on mobile site for some reason. Unfortunately, debugging Jekyll, JS and React is beyond my abilities. Please view the site on a desktop till a good samaritan (or GPT?) helps me out :)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
