@@ -1,0 +1,155 @@
+---
+layout: page
+title: gallery
+permalink: /gallery/
+nav: true
+nav_order: 2
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <style>
+        :root {
+            --spacing: 1.5rem;
+            --thumbnail-size: 300px;
+            --overlay-color: rgba(0, 0, 0, 0.8);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: var(--spacing);
+            /* background: #fafafa; */
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(var(--thumbnail-size), 1fr));
+            gap: var(--spacing);
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }
+
+        .gallery-item {
+            position: relative;
+            overflow: hidden;
+            aspect-ratio: 1;
+            border-radius: 4px;
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-4px);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        .gallery-item-info {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: var(--overlay-color);
+            color: white;
+            padding: var(--spacing);
+            transform: translateY(100%);
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item:hover .gallery-item-info {
+            transform: translateY(0);
+        }
+
+        .gallery-item-title {
+            margin: 0 0 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        .gallery-item-details {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin: 0;
+        }
+
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: var(--overlay-color);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            padding: var(--spacing);
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal img {
+            max-width: 90vw;
+            max-height: 90vh;
+            object-fit: contain;
+        }
+
+        @media (max-width: 768px) {
+            :root {
+                --thumbnail-size: 150px;
+                --spacing: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- For Jekyll, this would go in your layout or include file -->
+    <ul class="gallery">
+        {% for image in site.data.gallery %}
+        <li class="gallery-item">
+            <img src="{{ image.thumbnail }}" alt="{{ image.title }}" loading="lazy">
+            <div class="gallery-item-info">
+                <h3 class="gallery-item-title">{{ image.title }}</h3>
+                <p class="gallery-item-details">
+                    {{ image.date }} • {{ image.location }}<br>
+                    {{ image.description }}
+                </p>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <div class="modal" id="imageModal">
+        <img src="" alt="" id="modalImage">
+    </div>
+
+    <script>
+        const modal = document.getElementById('imageModal');
+        const modalImg = document.getElementById('modalImage');
+        const galleryItems = document.querySelectorAll('.gallery-item img');
+
+        galleryItems.forEach(img => {
+            img.addEventListener('click', () => {
+                modal.classList.add('active');
+                modalImg.src = img.src.replace('thumbnails/', '');  // Assuming full-size images are in parent directory
+            });
+        });
+
+        modal.addEventListener('click', () => {
+            modal.classList.remove('active');
+        });
+    </script>
+</body>
+</html>
