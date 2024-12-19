@@ -145,15 +145,15 @@ nav_order: 2
         }
 
         .modal-title {
-            font-size: 0.5rem; /* Reduced font size */
-            font-weight: bold;
+            font-size: 1.5rem; /* Reduced font size */
+            /* font-weight: bold; */
             margin: 0 0 0.5rem;
             color: var(--caption-text);
         }
     </style>
 </head>   
 <body>
-    A growing collection of my captures from around the world.
+    A growing collection of my captures; <i>reload the page to shuffle</i> the images everytime you visit this page. <br>
     <p></p>
     <!-- For Jekyll, this would go in your layout or include file -->
     <ul class="gallery">
@@ -186,6 +186,21 @@ nav_order: 2
     </div>
 
     <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const gallery = document.querySelector('.gallery');
+            const items = Array.from(gallery.children);
+
+            // Shuffle the array of gallery items
+            for (let i = items.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [items[i], items[j]] = [items[j], items[i]];
+            }
+
+            // Clear existing items and append shuffled items
+            gallery.innerHTML = '';
+            items.forEach(item => gallery.appendChild(item));
+        }); 
+
         const modal = document.getElementById('imageModal');
         const modalImg = document.getElementById('modalImage');
         const modalTitle = modal.querySelector('.modal-title');

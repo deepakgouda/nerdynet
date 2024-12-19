@@ -22,4 +22,4 @@ Before starting my PhD, I used to create algo-trading strategies, develop low la
 [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/), India in 2020.
 
 Lately I have been able to travel a bit and I photograph landscapes. Browse my creative work
-at the [Gallery](/shots).
+at the [Gallery](/gallery).
